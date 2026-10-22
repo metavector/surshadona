@@ -1,0 +1,10 @@
+{
+  "name": "সুরসাধনা - AI মিউজিক স্টুডিও ও ভার্চুয়াল ইনস্টিটিউট",
+  "description": "গান গাওয়ার সাথে সাথে স্বয়ংক্রিয় হারমোনিয়াম, গিটার ও কীপ্যাড বাদ্যযন্ত্র সংগত, রিয়েলটাইম অটো-টিউন, মাল্টিট্র্যাক রেকর্ডিং ও সঙ্গীত শিক্ষা একাডেমি।",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
